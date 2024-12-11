@@ -1,0 +1,101 @@
+antibiotic_name,gene_name,animal_name,antibiotic_frequency,average_amount_per_animal,bacteria_name
+estreptomicina,aadA1,vacas,semanal,8.96,E. coli
+penicilina,blaCTX-M,pollos,semanal,9.34,Enterococcus
+penicilina,ermB,ovejas,mensual,27.19,Salmonella
+penicilina,ermB,cerdos,mensual,37.22,Enterococcus
+estreptomicina,aadA1,ovejas,semanal,45.0,Salmonella
+eritromicina,ermB,ovejas,semanal,14.12,Salmonella
+estreptomicina,tetA,cerdos,semanal,10.89,E. coli
+eritromicina,aadA1,ovejas,diaria,12.11,Staphylococcus
+estreptomicina,aadA1,cerdos,diaria,17.07,E. coli
+penicilina,ermB,vacas,diaria,36.64,Salmonella
+penicilina,ermB,vacas,mensual,31.95,Staphylococcus
+estreptomicina,aadA1,ovejas,diaria,11.92,E. coli
+estreptomicina,aadA1,pollos,diaria,33.33,Salmonella
+penicilina,blaCTX-M,pollos,diaria,34.4,Salmonella
+estreptomicina,blaCTX-M,ovejas,semanal,37.28,Staphylococcus
+penicilina,blaCTX-M,pollos,diaria,32.75,E. coli
+tetraciclina,blaCTX-M,ovejas,diaria,44.28,Enterococcus
+estreptomicina,ermB,vacas,mensual,10.19,E. coli
+estreptomicina,blaCTX-M,vacas,mensual,11.61,E. coli
+estreptomicina,blaCTX-M,pollos,semanal,21.87,Staphylococcus
+tetraciclina,ermB,pollos,mensual,5.17,Salmonella
+eritromicina,aadA1,pollos,diaria,15.71,Enterococcus
+penicilina,blaCTX-M,vacas,semanal,18.58,Staphylococcus
+penicilina,ermB,cerdos,diaria,21.48,E. coli
+tetraciclina,ermB,pollos,diaria,30.14,Staphylococcus
+eritromicina,blaCTX-M,vacas,semanal,6.81,Staphylococcus
+eritromicina,tetA,ovejas,mensual,21.79,Staphylococcus
+eritromicina,blaCTX-M,pollos,diaria,47.44,Staphylococcus
+penicilina,tetA,ovejas,mensual,32.65,Salmonella
+tetraciclina,blaCTX-M,vacas,semanal,10.88,Salmonella
+penicilina,blaCTX-M,pollos,mensual,44.55,Enterococcus
+estreptomicina,blaCTX-M,cerdos,semanal,31.92,E. coli
+tetraciclina,blaCTX-M,pollos,diaria,26.21,Staphylococcus
+eritromicina,tetA,vacas,diaria,22.52,Enterococcus
+tetraciclina,tetA,vacas,semanal,35.69,Staphylococcus
+estreptomicina,tetA,ovejas,semanal,14.9,Enterococcus
+tetraciclina,ermB,pollos,mensual,7.1,E. coli
+estreptomicina,tetA,ovejas,semanal,10.31,Salmonella
+tetraciclina,blaCTX-M,ovejas,mensual,33.04,E. coli
+tetraciclina,aadA1,ovejas,diaria,44.89,Staphylococcus
+penicilina,tetA,ovejas,diaria,33.69,Enterococcus
+penicilina,tetA,pollos,mensual,43.27,Salmonella
+tetraciclina,aadA1,vacas,mensual,43.74,Enterococcus
+estreptomicina,tetA,pollos,diaria,27.81,Salmonella
+tetraciclina,blaCTX-M,ovejas,diaria,25.55,Staphylococcus
+tetraciclina,aadA1,cerdos,mensual,31.09,Enterococcus
+penicilina,tetA,vacas,diaria,28.72,E. coli
+penicilina,aadA1,cerdos,semanal,13.18,Staphylococcus
+tetraciclina,blaCTX-M,ovejas,semanal,30.09,Salmonella
+tetraciclina,tetA,vacas,diaria,8.32,E. coli
+penicilina,blaCTX-M,cerdos,diaria,25.79,Salmonella
+penicilina,aadA1,pollos,semanal,8.65,Salmonella
+eritromicina,blaCTX-M,ovejas,diaria,22.5,Salmonella
+tetraciclina,ermB,pollos,mensual,31.76,Staphylococcus
+tetraciclina,aadA1,ovejas,semanal,27.22,E. coli
+penicilina,ermB,pollos,mensual,47.44,Salmonella
+penicilina,aadA1,pollos,diaria,25.74,Enterococcus
+penicilina,aadA1,cerdos,semanal,36.36,Staphylococcus
+tetraciclina,aadA1,pollos,mensual,11.58,Staphylococcus
+eritromicina,tetA,vacas,semanal,29.93,Enterococcus
+penicilina,ermB,vacas,diaria,10.62,Enterococcus
+penicilina,aadA1,vacas,mensual,35.13,Staphylococcus
+eritromicina,tetA,pollos,mensual,8.46,Salmonella
+eritromicina,blaCTX-M,ovejas,mensual,32.46,Staphylococcus
+penicilina,ermB,vacas,semanal,34.68,Salmonella
+tetraciclina,ermB,pollos,semanal,41.07,Enterococcus
+penicilina,tetA,pollos,semanal,16.17,Salmonella
+penicilina,ermB,ovejas,semanal,27.89,Staphylococcus
+penicilina,blaCTX-M,pollos,semanal,35.57,E. coli
+tetraciclina,blaCTX-M,cerdos,diaria,28.41,Salmonella
+penicilina,aadA1,vacas,mensual,8.89,Staphylococcus
+estreptomicina,tetA,cerdos,mensual,35.95,Enterococcus
+estreptomicina,tetA,cerdos,mensual,30.8,Salmonella
+penicilina,tetA,cerdos,semanal,36.38,Salmonella
+eritromicina,ermB,cerdos,semanal,9.83,Salmonella
+tetraciclina,aadA1,ovejas,diaria,37.77,Staphylococcus
+penicilina,tetA,cerdos,semanal,15.58,E. coli
+eritromicina,blaCTX-M,vacas,semanal,49.7,Staphylococcus
+tetraciclina,ermB,pollos,mensual,15.82,Staphylococcus
+penicilina,blaCTX-M,pollos,semanal,15.59,Staphylococcus
+eritromicina,aadA1,ovejas,mensual,36.75,Salmonella
+penicilina,ermB,ovejas,diaria,32.05,E. coli
+tetraciclina,aadA1,ovejas,mensual,21.33,Staphylococcus
+penicilina,blaCTX-M,pollos,mensual,27.38,E. coli
+penicilina,tetA,cerdos,semanal,44.35,Salmonella
+tetraciclina,ermB,pollos,diaria,14.39,E. coli
+estreptomicina,tetA,vacas,diaria,40.57,Salmonella
+eritromicina,blaCTX-M,vacas,mensual,30.63,Staphylococcus
+penicilina,tetA,ovejas,mensual,6.81,Salmonella
+tetraciclina,blaCTX-M,vacas,semanal,28.69,Salmonella
+eritromicina,ermB,pollos,mensual,45.33,Salmonella
+penicilina,blaCTX-M,cerdos,mensual,16.47,Staphylococcus
+estreptomicina,tetA,pollos,diaria,29.49,E. coli
+eritromicina,aadA1,vacas,mensual,43.43,Staphylococcus
+tetraciclina,aadA1,cerdos,diaria,40.01,Staphylococcus
+estreptomicina,ermB,pollos,mensual,47.51,Staphylococcus
+estreptomicina,ermB,vacas,diaria,43.25,Enterococcus
+estreptomicina,ermB,pollos,diaria,8.78,Enterococcus
+eritromicina,aadA1,vacas,semanal,22.35,Salmonella
+eritromicina,aadA1,ovejas,semanal,6.46,Enterococcus
